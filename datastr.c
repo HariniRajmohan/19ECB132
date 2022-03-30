@@ -1,4 +1,3 @@
-# 19ECB132
 # include <stdio.h>
 # define SIZE 5
 
