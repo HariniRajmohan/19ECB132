@@ -12,3 +12,10 @@ int main()
     printf("Sum of the array = %d\n",sum);
     return 0;
 }
+/*
+Enter array size
+3
+Enter array elements
+1 2 3
+Sum of the array = 6
+*/
