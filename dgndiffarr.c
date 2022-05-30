@@ -32,3 +32,13 @@ int main()
   printf("Difference is %d",abD);
   return 0;
 }
+/*
+Enter the number of rows and columns:
+3 3
+Enter the elements in matrix:
+1 2 3      
+9 8 7
+6 5 4
+The sum of diagonals is 13 17
+Difference is 4
+*/
