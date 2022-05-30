@@ -29,7 +29,7 @@ int main()
   
     printf("\nAfter Insertion: ");
     for (i = 0; i < n; i++)
-        printf("%d  ", arr[i]);
+        printf("%d", arr[i]);
   
     return 0;
 }
@@ -79,11 +79,11 @@ int main()
   
     printf("Array before deletion\n");
     for (i = 0; i < n; i++)
-        printf("%d  ", arr[i]);
+        printf("%d", arr[i]);
   
     n = deleteElement(arr, n, key);
   
     printf("\n\nArray after deletion\n");
     for (i = 0; i < n; i++)
-        printf("%d  ", arr[i]);
+        printf("%d", arr[i]);
 }
