@@ -1,10 +1,10 @@
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
-#include <assert.h>
-#include <limits.h>
-#include <stdbool.h>
+#include <stdlib.h> 
+#include <assert.h>// used to verify the assumptions made by program
+#include <limits.h>//to set limits of variable datatypes 
+#include <stdbool.h>//boolean data types,true-1 and false-0 
 int main(){
 int n;
 int k;
@@ -25,3 +25,8 @@ ans++;
 printf("%d\n",ans);
 return 0;
 }
+/*output:-
+6
+1 2 3 4 5 6 7
+15
+*/
