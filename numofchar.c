@@ -14,5 +14,4 @@ int main()
     }
     printf("the number of characters in provided sentence is %d",c);
     getc();
-}
-
+  }
