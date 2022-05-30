@@ -28,3 +28,7 @@ scanf("%d",&arr[i]);
 repeating_element(arr,n);
 return 0;
 }
+/*
+1 2 3 2 4 5 
+Repeating elements are: 2 
+*/
