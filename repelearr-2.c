@@ -18,3 +18,9 @@ int main()
     }    
     return 0;    
 }  
+/*
+Duplicate elements in given array: 
+2
+3
+8
+*/
